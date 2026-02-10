@@ -1,4 +1,4 @@
-# 📝 Lista de Tarefas - Jetpack Compose
+📝 Lista de Tarefas - Jetpack Compose
 
 <div align="center">
   
@@ -19,8 +19,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/screenshot_empty.png" alt="Tela Vazia" width="250"/>
-  <img src="screenshots/screenshot_tasks.png" alt="Lista de Tarefas" width="250"/>
+  <img width="250" height="850"  alt="image" src="https://github.com/user-attachments/assets/935871fa-2555-40de-9e66-03b95e224de7" />
+  
+  <img width="250" height="465" alt="image" src="https://github.com/user-attachments/assets/b4e913c5-a002-444a-b817-50b80535d7d0" />
+
 </div
 
 ---
@@ -233,6 +235,8 @@ Lista otimizada de tarefas com LazyColumn.
 - [x] Componentes isolados
 - [x] Estatísticas em tempo real
 
+<!--
+
 ### Próximas Versões
 
 #### Versão 1.1 🚧
@@ -254,6 +258,7 @@ Lista otimizada de tarefas com LazyColumn.
 - [ ] Widget para tela inicial
 - [ ] Suporte a múltiplas listas
 
+-->
 ---
 
 ## 📊 Comparação Antes/Depois da Refatoração
