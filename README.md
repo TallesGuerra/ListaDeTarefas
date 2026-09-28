@@ -19,7 +19,7 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img width="250" height="850"  alt="image" src="https://github.com/user-attachments/assets/935871fa-2555-40de-9e66-03b95e224de7" />
+  <img width="250" height="465"  alt="image" src="https://github.com/user-attachments/assets/935871fa-2555-40de-9e66-03b95e224de7" />
   
   <img width="250" height="465" alt="image" src="https://github.com/user-attachments/assets/b4e913c5-a002-444a-b817-50b80535d7d0" />
 
